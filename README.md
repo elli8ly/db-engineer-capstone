@@ -1,24 +1,17 @@
 # DB Engineer Capstone Project
-Overview
+##Overview
 A database solution for Little Lemon restaurant's booking management with Python integration and Tableau analytics.
 
-Key Components
+##Key Components:
 MySQL Database: Complete booking system schema
-
 5 Stored Procedures:
-
-GetMaxQuantity()
-
-ManageBooking()
-
-UpdateBooking()
-
-AddBooking()
-
-CancelBooking()
+- GetMaxQuantity()
+- ManageBooking()
+- UpdateBooking()
+- AddBooking()
+- CancelBooking()
 
 Python Client: For database interaction
-
 Tableau Dashboards: Interactive data visualizations
 
 Requirements
