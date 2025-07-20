@@ -14,7 +14,7 @@ MySQL Database: Complete booking system schema
 Python Client: For database interaction
 Tableau Dashboards: Interactive data visualizations
 
-Requirements
+Requirements:
 MySQL 8.0+
 Python 3.8+
 Tableau Desktop (for reports)
