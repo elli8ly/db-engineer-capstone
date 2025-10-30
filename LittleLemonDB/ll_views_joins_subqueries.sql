@@ -13,7 +13,7 @@ WHERE
     
 SELECT * FROM OrdersView;
 
--- Task 2: JOIN Query for High-Value Orders (>$30)
+-- Task 2: JOIN Query for High-Value Orders (>$150)
 
 SELECT 
     c.CustomerID,
